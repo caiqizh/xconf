@@ -1,0 +1,19 @@
+# Core numerics
+numpy
+scipy
+tqdm
+pyyaml
+pillow
+httpx
+
+# Model APIs (pick what you use)
+google-genai        # Gemini: GEMINI_API_KEY (Developer API) or GOOGLE_CLOUD_PROJECT (Vertex)
+anthropic[vertex]   # Claude: ANTHROPIC_API_KEY (first-party API) or Vertex
+openai              # any OpenAI-compatible endpoint (vLLM, OpenRouter, ...)
+
+# Datasets
+datasets
+huggingface_hub
+
+# Agent line (only if you regenerate agent rollouts; see README):
+#   alfworld / scienceworld / appworld / swebench per their official repos
