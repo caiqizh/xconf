@@ -65,7 +65,16 @@ The method side is fully included: `metapost_alf.py` (agent-line Reflect), `eval
 
 ## Citation
 
-The paper is under review; a citation entry will appear here with the public preprint.
+Paper: [arXiv:2609.17708](https://arxiv.org/abs/2609.17708)
+
+```bibtex
+@article{zhang2026xconf,
+  title   = {Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents},
+  author  = {Zhang, Caiqi and Zhu, Xiaochen and Li, Chengzu and Chen, Yulong and Kumaran, Dharshan and Collier, Nigel},
+  journal = {arXiv preprint arXiv:2609.17708},
+  year    = {2026}
+}
+```
 
 ## License
 
