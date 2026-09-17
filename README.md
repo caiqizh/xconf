@@ -3,10 +3,8 @@
 experiential confidence estimation, from reasoning to agents</p>
 
 <p align="center">
-<img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg">
-<img alt="Python 3.10+" src="https://img.shields.io/badge/python-3.10%2B-blue.svg">
-<img alt="Training-free" src="https://img.shields.io/badge/training-free-brightgreen.svg">
-<img alt="Black-box" src="https://img.shields.io/badge/black--box-no%20logits-orange.svg">
+<a href="https://arxiv.org/abs/2609.17708"><img alt="Paper" src="https://img.shields.io/badge/arXiv-2609.17708-b31b1b.svg"></a>
+<a href="https://caiqizh.github.io/xconf"><img alt="Website" src="https://img.shields.io/badge/Website-caiqizh.github.io%2Fxconf-1f6feb.svg"></a>
 </p>
 
 <p align="center"><img src="assets/overview.png" width="95%" alt="XConf overview: solve & estimate, retrieve experience, recalibrate"></p>
